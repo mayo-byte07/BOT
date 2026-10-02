@@ -46133,3 +46133,95 @@ Following users from your follower list is done! Total followers fetched: 18, To
 2026-10-02 05:02:18,386 - INFO - Follower counter updated: 3044
 2026-10-02 05:02:18,386 - INFO - 
 Following users from your follower list is done! Total followers fetched: 18, Total followers followed: 3044
+2026-10-02 17:42:04,593 - INFO - Hi! I am GitHub Follower Bot.
+2026-10-02 17:42:04,593 - INFO - Letting you follow all your followers!
+2026-10-02 17:42:04,593 - INFO - Starting to fetch your follower lists...
+
+2026-10-02 17:42:04,594 - INFO - Loaded 3044 already followed users.
+2026-10-02 17:42:04,594 - INFO - Processing all followers without resume.
+2026-10-02 17:42:04,594 - INFO - Starting from page: 1
+2026-10-02 17:42:04,595 - INFO - Current follower counter: 3044
+2026-10-02 17:42:04,790 - INFO - Rate Limit - Remaining: 5000, Reset at: 2026-10-02 18:42:04
+2026-10-02 17:42:04,791 - INFO - Fetching followers from: https://api.github.com/users/mayo-byte07/followers?per_page=100&page=1
+2026-10-02 17:42:04,978 - DEBUG - Number of followers fetched: 18
+2026-10-02 17:42:04,979 - INFO - Fetched 18 followers on page 1.
+2026-10-02 17:42:04,979 - INFO - Sleeping for 5 seconds before following users.
+2026-10-02 17:42:09,984 - INFO - Attempting to follow user: mattrltrent
+2026-10-02 17:42:10,210 - WARNING - Failed to follow user mattrltrent. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:42:10,211 - WARNING - Failed to follow user: mattrltrent
+2026-10-02 17:42:10,211 - INFO - Sleeping for 13.69 seconds before the next follow.
+2026-10-02 17:42:23,916 - INFO - Attempting to follow user: TusharKau275
+2026-10-02 17:42:24,157 - WARNING - Failed to follow user TusharKau275. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:42:24,158 - WARNING - Failed to follow user: TusharKau275
+2026-10-02 17:42:24,159 - INFO - Sleeping for 11.30 seconds before the next follow.
+2026-10-02 17:42:35,472 - INFO - Attempting to follow user: grvwrk
+2026-10-02 17:42:35,690 - WARNING - Failed to follow user grvwrk. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:42:35,691 - WARNING - Failed to follow user: grvwrk
+2026-10-02 17:42:35,691 - INFO - Sleeping for 14.38 seconds before the next follow.
+2026-10-02 17:42:50,086 - INFO - Attempting to follow user: mikey2008
+2026-10-02 17:42:50,330 - WARNING - Failed to follow user mikey2008. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:42:50,331 - WARNING - Failed to follow user: mikey2008
+2026-10-02 17:42:50,332 - INFO - Sleeping for 11.22 seconds before the next follow.
+2026-10-02 17:43:01,564 - INFO - Attempting to follow user: vaishnavikhatri3
+2026-10-02 17:43:01,819 - WARNING - Failed to follow user vaishnavikhatri3. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:43:01,820 - WARNING - Failed to follow user: vaishnavikhatri3
+2026-10-02 17:43:01,820 - INFO - Sleeping for 10.33 seconds before the next follow.
+2026-10-02 17:43:12,160 - INFO - Attempting to follow user: sanviii19
+2026-10-02 17:43:12,411 - WARNING - Failed to follow user sanviii19. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:43:12,412 - WARNING - Failed to follow user: sanviii19
+2026-10-02 17:43:12,413 - INFO - Sleeping for 12.85 seconds before the next follow.
+2026-10-02 17:43:25,277 - INFO - Attempting to follow user: 1amsoul
+2026-10-02 17:43:25,540 - WARNING - Failed to follow user 1amsoul. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:43:25,541 - WARNING - Failed to follow user: 1amsoul
+2026-10-02 17:43:25,542 - INFO - Sleeping for 11.49 seconds before the next follow.
+2026-10-02 17:43:37,035 - INFO - Attempting to follow user: bit-RONIN47
+2026-10-02 17:43:37,255 - WARNING - Failed to follow user bit-RONIN47. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:43:37,256 - WARNING - Failed to follow user: bit-RONIN47
+2026-10-02 17:43:37,256 - INFO - Sleeping for 11.22 seconds before the next follow.
+2026-10-02 17:43:48,481 - INFO - Attempting to follow user: Bit-adarsh
+2026-10-02 17:43:48,708 - WARNING - Failed to follow user Bit-adarsh. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:43:48,709 - WARNING - Failed to follow user: Bit-adarsh
+2026-10-02 17:43:48,709 - INFO - Sleeping for 14.08 seconds before the next follow.
+2026-10-02 17:44:02,800 - INFO - Attempting to follow user: yash-pandey95
+2026-10-02 17:44:03,026 - WARNING - Failed to follow user yash-pandey95. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:44:03,027 - WARNING - Failed to follow user: yash-pandey95
+2026-10-02 17:44:03,027 - INFO - Sleeping for 12.09 seconds before the next follow.
+2026-10-02 17:44:15,130 - INFO - Attempting to follow user: code-with-abhi-i5
+2026-10-02 17:44:15,335 - WARNING - Failed to follow user code-with-abhi-i5. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:44:15,336 - WARNING - Failed to follow user: code-with-abhi-i5
+2026-10-02 17:44:15,336 - INFO - Sleeping for 11.47 seconds before the next follow.
+2026-10-02 17:44:26,814 - INFO - Attempting to follow user: Harshit-pundir
+2026-10-02 17:44:27,121 - WARNING - Failed to follow user Harshit-pundir. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:44:27,122 - WARNING - Failed to follow user: Harshit-pundir
+2026-10-02 17:44:27,122 - INFO - Sleeping for 12.96 seconds before the next follow.
+2026-10-02 17:44:40,094 - INFO - Attempting to follow user: PrasadSanap
+2026-10-02 17:44:40,314 - WARNING - Failed to follow user PrasadSanap. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:44:40,315 - WARNING - Failed to follow user: PrasadSanap
+2026-10-02 17:44:40,316 - INFO - Sleeping for 10.64 seconds before the next follow.
+2026-10-02 17:44:50,968 - INFO - Attempting to follow user: Alchemica369
+2026-10-02 17:44:51,230 - WARNING - Failed to follow user Alchemica369. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:44:51,231 - WARNING - Failed to follow user: Alchemica369
+2026-10-02 17:44:51,231 - INFO - Sleeping for 10.96 seconds before the next follow.
+2026-10-02 17:45:02,203 - INFO - Attempting to follow user: komal-byte21
+2026-10-02 17:45:02,431 - WARNING - Failed to follow user komal-byte21. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:45:02,432 - WARNING - Failed to follow user: komal-byte21
+2026-10-02 17:45:02,432 - INFO - Sleeping for 12.35 seconds before the next follow.
+2026-10-02 17:45:14,790 - INFO - Attempting to follow user: FENIEX07
+2026-10-02 17:45:15,068 - WARNING - Failed to follow user FENIEX07. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:45:15,069 - WARNING - Failed to follow user: FENIEX07
+2026-10-02 17:45:15,069 - INFO - Sleeping for 11.81 seconds before the next follow.
+2026-10-02 17:45:26,893 - INFO - Attempting to follow user: infinity-gb
+2026-10-02 17:45:27,143 - WARNING - Failed to follow user infinity-gb. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:45:27,144 - WARNING - Failed to follow user: infinity-gb
+2026-10-02 17:45:27,144 - INFO - Sleeping for 14.71 seconds before the next follow.
+2026-10-02 17:45:41,856 - INFO - Attempting to follow user: keshavmaang17-boop
+2026-10-02 17:45:42,075 - WARNING - Failed to follow user keshavmaang17-boop. Status Code: 403. Response: {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/users/followers#follow-a-user","status":"403"}
+2026-10-02 17:45:42,076 - WARNING - Failed to follow user: keshavmaang17-boop
+2026-10-02 17:45:42,076 - INFO - Sleeping for 14.61 seconds before the next follow.
+2026-10-02 17:45:56,909 - INFO - Rate Limit - Remaining: 5000, Reset at: 2026-10-02 18:45:56
+2026-10-02 17:45:56,910 - INFO - Fetching followers from: https://api.github.com/users/mayo-byte07/followers?per_page=100&page=2
+2026-10-02 17:45:57,117 - DEBUG - Number of followers fetched: 0
+2026-10-02 17:45:57,117 - INFO - No more followers to process. Exiting.
+2026-10-02 17:45:57,118 - INFO - Follower counter updated: 3044
+2026-10-02 17:45:57,118 - INFO - 
+Following users from your follower list is done! Total followers fetched: 18, Total followers followed: 3044
